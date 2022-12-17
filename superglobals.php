@@ -36,6 +36,6 @@
 </html>
 
 <?php
-    $name = htmlspecialchars($_POST['name']);
-    $password = htmlspecialchars($_POST['password']);
+    // $name = htmlspecialchars($_POST['name']);
+    // $password = htmlspecialchars($_POST['password']);
 ?> 
